@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BcP/Esj1vUUzoJGOu10padz4Ixp6LTArjEcYz7pfQvNFS7x/lHZvDikzh1Fem7JF7RzwR2Ia7vIuQTGP0Gv1GA==",
+  "dgSpecHash": "CIL1Iwm7ogKdVzD6cRrRphtJVZVpuO8MucCm325YGcO3I3Zn2rV5CP8hbqpHvpIFvsTJBWk8l8XvV5bMEzK31w==",
   "success": true,
-  "projectFilePath": "D:\\NabeelProjects\\IssueTracker\\IssueTracker.API\\IssueTracker.API\\IssueTracker.API.csproj",
+  "projectFilePath": "D:\\NabeelProjects\\IssueTrackerTest\\IssueTracker.API\\IssueTracker.API\\IssueTracker.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nabeel.rehman\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\nabeel.rehman\\.nuget\\packages\\microsoft.aspnetcore.authentication.core\\2.2.0\\microsoft.aspnetcore.authentication.core.2.2.0.nupkg.sha512",

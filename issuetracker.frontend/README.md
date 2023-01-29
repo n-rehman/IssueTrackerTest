@@ -6,18 +6,6 @@
 2. **Navigate to this project's root directory on the command line.**
 3. **Install Node Packages.** - `npm install`
 
-### Project Structure
-
-**Server**
-| Built in .net core 6, web api
-| IssueTracker.API project is for controller/api calls
-| IssueTracker.Business project have services & business logic
-| IssueTracker.Data contains model classes and DbContext related code
-| IssueTracker.Common contains common request/response classes used by business/api projects
-| IssueTracker.Business.UnitTests cover business logic unit tests
-| For Testing Purpose, it's using in-memory EntityFramework database so all but static data will be lost whenever Api project re-run
-| Web Api must be running for Front-End to work, Open IssueTracker.Application.sln in VS that support .net core 6 & run in
-| Note down port after localhost as it will be required in Front-End Setting
 
 **Client/FrontEnd**
 | Built in react 17

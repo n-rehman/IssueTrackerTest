@@ -2247,11 +2247,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\NabeelProjects\\IssueTracker\\IssueTracker.API\\IssueTracker.API\\IssueTracker.API.csproj",
+      "projectUniqueName": "D:\\NabeelProjects\\IssueTrackerTest\\IssueTracker.API\\IssueTracker.API\\IssueTracker.API.csproj",
       "projectName": "IssueTracker.API",
-      "projectPath": "D:\\NabeelProjects\\IssueTracker\\IssueTracker.API\\IssueTracker.API\\IssueTracker.API.csproj",
+      "projectPath": "D:\\NabeelProjects\\IssueTrackerTest\\IssueTracker.API\\IssueTracker.API\\IssueTracker.API.csproj",
       "packagesPath": "C:\\Users\\nabeel.rehman\\.nuget\\packages\\",
-      "outputPath": "D:\\NabeelProjects\\IssueTracker\\IssueTracker.API\\IssueTracker.API\\obj\\",
+      "outputPath": "D:\\NabeelProjects\\IssueTrackerTest\\IssueTracker.API\\IssueTracker.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -2274,11 +2274,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\NabeelProjects\\IssueTracker\\IssueTracker.Business\\IssueTracker.Business\\IssueTracker.Business.csproj": {
-              "projectPath": "D:\\NabeelProjects\\IssueTracker\\IssueTracker.Business\\IssueTracker.Business\\IssueTracker.Business.csproj"
+            "D:\\NabeelProjects\\IssueTrackerTest\\IssueTracker.Business\\IssueTracker.Business\\IssueTracker.Business.csproj": {
+              "projectPath": "D:\\NabeelProjects\\IssueTrackerTest\\IssueTracker.Business\\IssueTracker.Business\\IssueTracker.Business.csproj"
             },
-            "D:\\NabeelProjects\\IssueTracker\\IssueTracker.Data\\IssueTracker.Data\\IssueTracker.Data.csproj": {
-              "projectPath": "D:\\NabeelProjects\\IssueTracker\\IssueTracker.Data\\IssueTracker.Data\\IssueTracker.Data.csproj"
+            "D:\\NabeelProjects\\IssueTrackerTest\\IssueTracker.Data\\IssueTracker.Data\\IssueTracker.Data.csproj": {
+              "projectPath": "D:\\NabeelProjects\\IssueTrackerTest\\IssueTracker.Data\\IssueTracker.Data\\IssueTracker.Data.csproj"
             }
           }
         }

@@ -67,10 +67,6 @@ const ManageTicketAssignPage = (props) => {
     return () => userStore.removeChangeListener(onChange); // cleanup on unmount
   }, [users.length]);
 
-  function onChange() {
-    setUsers(userStore.getUsers());
-  }
-
   return (
     <>
       <h2>Manage Ticket Assignment</h2>

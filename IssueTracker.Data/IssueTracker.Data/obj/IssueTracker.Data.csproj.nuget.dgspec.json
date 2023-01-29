@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\NabeelProjects\\IssueTracker\\IssueTracker.Data\\IssueTracker.Data\\IssueTracker.Data.csproj": {}
+    "D:\\NabeelProjects\\IssueTrackerTest\\IssueTracker.Data\\IssueTracker.Data\\IssueTracker.Data.csproj": {}
   },
   "projects": {
-    "D:\\NabeelProjects\\IssueTracker\\IssueTracker.Data\\IssueTracker.Data\\IssueTracker.Data.csproj": {
+    "D:\\NabeelProjects\\IssueTrackerTest\\IssueTracker.Data\\IssueTracker.Data\\IssueTracker.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\NabeelProjects\\IssueTracker\\IssueTracker.Data\\IssueTracker.Data\\IssueTracker.Data.csproj",
+        "projectUniqueName": "D:\\NabeelProjects\\IssueTrackerTest\\IssueTracker.Data\\IssueTracker.Data\\IssueTracker.Data.csproj",
         "projectName": "IssueTracker.Data",
-        "projectPath": "D:\\NabeelProjects\\IssueTracker\\IssueTracker.Data\\IssueTracker.Data\\IssueTracker.Data.csproj",
+        "projectPath": "D:\\NabeelProjects\\IssueTrackerTest\\IssueTracker.Data\\IssueTracker.Data\\IssueTracker.Data.csproj",
         "packagesPath": "C:\\Users\\nabeel.rehman\\.nuget\\packages\\",
-        "outputPath": "D:\\NabeelProjects\\IssueTracker\\IssueTracker.Data\\IssueTracker.Data\\obj\\",
+        "outputPath": "D:\\NabeelProjects\\IssueTrackerTest\\IssueTracker.Data\\IssueTracker.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -34,8 +34,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\NabeelProjects\\IssueTracker\\IssueTracker.Shared\\IssueTracker.Shared\\IssueTracker.Shared.csproj": {
-                "projectPath": "D:\\NabeelProjects\\IssueTracker\\IssueTracker.Shared\\IssueTracker.Shared\\IssueTracker.Shared.csproj"
+              "D:\\NabeelProjects\\IssueTrackerTest\\IssueTracker.Shared\\IssueTracker.Shared\\IssueTracker.Shared.csproj": {
+                "projectPath": "D:\\NabeelProjects\\IssueTrackerTest\\IssueTracker.Shared\\IssueTracker.Shared\\IssueTracker.Shared.csproj"
               }
             }
           }
@@ -75,14 +75,14 @@
         }
       }
     },
-    "D:\\NabeelProjects\\IssueTracker\\IssueTracker.Shared\\IssueTracker.Shared\\IssueTracker.Shared.csproj": {
+    "D:\\NabeelProjects\\IssueTrackerTest\\IssueTracker.Shared\\IssueTracker.Shared\\IssueTracker.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\NabeelProjects\\IssueTracker\\IssueTracker.Shared\\IssueTracker.Shared\\IssueTracker.Shared.csproj",
+        "projectUniqueName": "D:\\NabeelProjects\\IssueTrackerTest\\IssueTracker.Shared\\IssueTracker.Shared\\IssueTracker.Shared.csproj",
         "projectName": "IssueTracker.Shared",
-        "projectPath": "D:\\NabeelProjects\\IssueTracker\\IssueTracker.Shared\\IssueTracker.Shared\\IssueTracker.Shared.csproj",
+        "projectPath": "D:\\NabeelProjects\\IssueTrackerTest\\IssueTracker.Shared\\IssueTracker.Shared\\IssueTracker.Shared.csproj",
         "packagesPath": "C:\\Users\\nabeel.rehman\\.nuget\\packages\\",
-        "outputPath": "D:\\NabeelProjects\\IssueTracker\\IssueTracker.Shared\\IssueTracker.Shared\\obj\\",
+        "outputPath": "D:\\NabeelProjects\\IssueTrackerTest\\IssueTracker.Shared\\IssueTracker.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

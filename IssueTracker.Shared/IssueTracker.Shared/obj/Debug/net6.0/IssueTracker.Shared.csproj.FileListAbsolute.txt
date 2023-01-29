@@ -1,0 +1,12 @@
+D:\NabeelProjects\IssueTracker\IssueTracker.Shared\IssueTracker.Shared\bin\Debug\net6.0\IssueTracker.Shared.deps.json
+D:\NabeelProjects\IssueTracker\IssueTracker.Shared\IssueTracker.Shared\bin\Debug\net6.0\IssueTracker.Shared.dll
+D:\NabeelProjects\IssueTracker\IssueTracker.Shared\IssueTracker.Shared\bin\Debug\net6.0\IssueTracker.Shared.pdb
+D:\NabeelProjects\IssueTracker\IssueTracker.Shared\IssueTracker.Shared\obj\Debug\net6.0\IssueTracker.Shared.csproj.AssemblyReference.cache
+D:\NabeelProjects\IssueTracker\IssueTracker.Shared\IssueTracker.Shared\obj\Debug\net6.0\IssueTracker.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\NabeelProjects\IssueTracker\IssueTracker.Shared\IssueTracker.Shared\obj\Debug\net6.0\IssueTracker.Shared.AssemblyInfoInputs.cache
+D:\NabeelProjects\IssueTracker\IssueTracker.Shared\IssueTracker.Shared\obj\Debug\net6.0\IssueTracker.Shared.AssemblyInfo.cs
+D:\NabeelProjects\IssueTracker\IssueTracker.Shared\IssueTracker.Shared\obj\Debug\net6.0\IssueTracker.Shared.csproj.CoreCompileInputs.cache
+D:\NabeelProjects\IssueTracker\IssueTracker.Shared\IssueTracker.Shared\obj\Debug\net6.0\IssueTracker.Shared.dll
+D:\NabeelProjects\IssueTracker\IssueTracker.Shared\IssueTracker.Shared\obj\Debug\net6.0\refint\IssueTracker.Shared.dll
+D:\NabeelProjects\IssueTracker\IssueTracker.Shared\IssueTracker.Shared\obj\Debug\net6.0\IssueTracker.Shared.pdb
+D:\NabeelProjects\IssueTracker\IssueTracker.Shared\IssueTracker.Shared\obj\Debug\net6.0\ref\IssueTracker.Shared.dll

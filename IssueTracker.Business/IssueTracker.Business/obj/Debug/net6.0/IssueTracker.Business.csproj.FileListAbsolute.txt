@@ -1,0 +1,17 @@
+D:\NabeelProjects\IssueTracker\IssueTracker.Business\IssueTracker.Business\bin\Debug\net6.0\IssueTracker.Business.deps.json
+D:\NabeelProjects\IssueTracker\IssueTracker.Business\IssueTracker.Business\bin\Debug\net6.0\IssueTracker.Business.dll
+D:\NabeelProjects\IssueTracker\IssueTracker.Business\IssueTracker.Business\bin\Debug\net6.0\IssueTracker.Business.pdb
+D:\NabeelProjects\IssueTracker\IssueTracker.Business\IssueTracker.Business\bin\Debug\net6.0\IssueTracker.Data.dll
+D:\NabeelProjects\IssueTracker\IssueTracker.Business\IssueTracker.Business\bin\Debug\net6.0\IssueTracker.Shared.dll
+D:\NabeelProjects\IssueTracker\IssueTracker.Business\IssueTracker.Business\bin\Debug\net6.0\IssueTracker.Data.pdb
+D:\NabeelProjects\IssueTracker\IssueTracker.Business\IssueTracker.Business\bin\Debug\net6.0\IssueTracker.Shared.pdb
+D:\NabeelProjects\IssueTracker\IssueTracker.Business\IssueTracker.Business\obj\Debug\net6.0\IssueTracker.Business.csproj.AssemblyReference.cache
+D:\NabeelProjects\IssueTracker\IssueTracker.Business\IssueTracker.Business\obj\Debug\net6.0\IssueTracker.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\NabeelProjects\IssueTracker\IssueTracker.Business\IssueTracker.Business\obj\Debug\net6.0\IssueTracker.Business.AssemblyInfoInputs.cache
+D:\NabeelProjects\IssueTracker\IssueTracker.Business\IssueTracker.Business\obj\Debug\net6.0\IssueTracker.Business.AssemblyInfo.cs
+D:\NabeelProjects\IssueTracker\IssueTracker.Business\IssueTracker.Business\obj\Debug\net6.0\IssueTracker.Business.csproj.CoreCompileInputs.cache
+D:\NabeelProjects\IssueTracker\IssueTracker.Business\IssueTracker.Business\obj\Debug\net6.0\IssueTracker.Business.csproj.CopyComplete
+D:\NabeelProjects\IssueTracker\IssueTracker.Business\IssueTracker.Business\obj\Debug\net6.0\IssueTracker.Business.dll
+D:\NabeelProjects\IssueTracker\IssueTracker.Business\IssueTracker.Business\obj\Debug\net6.0\refint\IssueTracker.Business.dll
+D:\NabeelProjects\IssueTracker\IssueTracker.Business\IssueTracker.Business\obj\Debug\net6.0\IssueTracker.Business.pdb
+D:\NabeelProjects\IssueTracker\IssueTracker.Business\IssueTracker.Business\obj\Debug\net6.0\ref\IssueTracker.Business.dll
